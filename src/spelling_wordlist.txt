@@ -1,4 +1,5 @@
 ackee
+analytics
 automagic
 backgrounded
 behaviour
@@ -48,6 +49,7 @@ rM
 rmKit
 rMlib
 rsa
+runtime
 sftp
 sha
 splashscreens
